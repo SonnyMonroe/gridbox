@@ -1,0 +1,30 @@
+main {
+
+    display: grid;
+    grid-template-areas:
+
+    "topbar" topbar "topbar"
+    ""
+
+
+}
+
+header {
+
+}
+
+aside {
+
+}
+
+article {
+
+}
+
+nav {
+
+}
+
+footer {
+
+}
